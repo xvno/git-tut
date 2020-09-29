@@ -11,11 +11,10 @@
 ## Errands
 
 - [ ] 工位椅子更换
-
+- [ ] 处理了一个 tnn 的紧急需求
 
 ## Log
 
 1. une
 2. duex
 3. tois
-
